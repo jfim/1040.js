@@ -30,4 +30,5 @@ GPLv2
 ## Credits
 
 Tax computations come from [AstonRoberts' OpenTaxSolver](http://opentaxsolver.sourceforge.net/) and [contributors](http://opentaxsolver.sourceforge.net/credits.html)
+
 Tax computations were converted to JavaScript using [emscripten](https://github.com/kripken/emscripten)
