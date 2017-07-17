@@ -1,8 +1,3 @@
-var parameters = new Map();
-parameters.set('Status?', 'Single');
-parameters.set('Under65?', 'Yes');
-parameters.set('Dependents', 1.0);
-parameters.set('L7', 50000.0);
 var Module = {
     parameters: new Map(),
     output: new Map(),
